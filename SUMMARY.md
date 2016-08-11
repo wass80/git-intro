@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Gitの](git_idea.md)
+* [Gitの](Git_idea.md)
 
